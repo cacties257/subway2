@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib import font_manager, rc
 
 # 폰트 설정
-font_path = "C:\\Windows\\Fonts\\NanumGothic.ttf"  # Windows의 일반적인 경로
+font_path = "NanumGothic.ttf"  # Windows의 일반적인 경로
 font_manager.fontManager.addfont(font_path)
 rc('font', family='NanumGothic')
 
