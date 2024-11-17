@@ -3,3 +3,4 @@ streamlit==1.25.0
 numpy
 pandas
 matplotlib>=3.4.0
+pillow==9.3.0
